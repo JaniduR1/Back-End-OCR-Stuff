@@ -1,0 +1,12 @@
+# OCR System Demo
+
+### WIP
+
+This was the initial steps taken to build my own OCR system however it was put on hold due to it not being time realistic
+*See report for more information*
+
+1. Run main.py
+2. Press any button until you reach the one with the recognised characters (it should go through the different images as you press any button)
+3. Press on one area with a green border around it and then click any button to show just that image
+4. Press any button to exit
+4. That image will be saved as the new `cropped_image.jpg` 
